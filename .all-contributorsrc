@@ -1,0 +1,20 @@
+{
+  "projectName": "react-native-spotify-remote-reloaded",
+  "projectOwner": "Danonebf",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "Danonebf",
+      "name": "Daniel",
+      "avatar": "https://avatars.githubusercontent.com/u/12345678?v=4"
+    }
+  ],
+  "contributorsPerLine": 7
+}
